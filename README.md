@@ -1,7 +1,7 @@
 # Wislan de souza taveira
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
- Olá, me chamo Wislan de souza taveira, sempre gostei de tecnologia, estudei o básico de html e css, porém nunca dei sequência. Sou formado em Design gráfico pelo Centro Universitário de Brasília, onde tive contato com UX e UI e Desenvolvimento web, fiz um curso de aperfeiçoamento em Desenvolvimento Front-End pelo Senai de Brasília e atualmente meu objetivo é cursar Análise e desenvolvimento de sistemas e entrar para área de TI.
+ Olá, me chamo Wislan de souza taveira, sempre gostei de tecnologia, estudei o básico de html e css, porém nunca havia estudado afundo, até  cursar Design gráfico pelo Centro Universitário de Brasília, onde tive contato com UX e UI e Desenvolvimento web, fiz um curso de aperfeiçoamento em Desenvolvimento Front-End pelo Senai de Brasília e estou realizando o Santander Bootcamp 2023 - Fullstack Java+Angular, atualmente meu objetivo é cursar Análise e desenvolvimento de sistemas e entrar para área de TI.
 
 🦄 Linguagens de marcação: 
 \
